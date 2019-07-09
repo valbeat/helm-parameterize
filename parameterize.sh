@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-# ファイルをConfigMapおよびSecrets形式に変換するスクリプト
-# 改行からカンマ区切り等への変換は呼び出し側で行ってください。
 
 set -e
 
